@@ -3,7 +3,7 @@
 ## Project setup
 ```python
 1. create .env file inside of "./server" folder
-2. place in mongoDB information into .env file 
+2. place in mongoDB information into .env file (MONGO_URL = ...)
 3. Type  " npm install " inside the "./server" directory  to download Server dependencies
 4. Type " npm install " inside the "./client" directory to download Client dependencies
 ```
